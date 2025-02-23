@@ -20,8 +20,8 @@
     <p id="winner"></p>
 
     <script>
-        const sheetId = "1aBcD_EFGHIJKlmNOPQRS_tUVWXYZ"; // Ganti dengan ID Spreadsheet Anda
-        const apiKey = "YOUR_GOOGLE_SHEETS_API_KEY"; // Ganti dengan API Key Anda
+        const sheetId = "1X3qIYrN5PH0W2GePRgUd2pBw5bNNA_dYMkjBd_oolJo/edit?gid=0#gid=0"; // Ganti dengan ID Spreadsheet Anda
+        const apiKey = "AIzaSyD-mzIC0o3iGZKBor0_tYTodHwtbZgv_C4"; // Ganti dengan API Key Anda
         const range = "Sheet1!A:A"; // Pastikan ini sesuai dengan sheet dan kolom nama peserta
 
         let participants = [];
